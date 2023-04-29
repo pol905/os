@@ -3,5 +3,6 @@
 members = [
   "fork",
   "fork_files",
-  "exec"
+  "exec",
+  "output_redirection"
 ]

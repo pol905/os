@@ -1,2 +1,4 @@
 target
 screenshots
+*.log
+*.output
