@@ -4,5 +4,6 @@ members = [
   "fork",
   "fork_files",
   "exec",
-  "output_redirection"
+  "output_redirection",
+  "pipe"
 ]
