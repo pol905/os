@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "fork",
+  "fork_files"
+]
