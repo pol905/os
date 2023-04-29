@@ -2,5 +2,6 @@
 
 members = [
   "fork",
-  "fork_files"
+  "fork_files",
+  "exec"
 ]
